@@ -5,6 +5,12 @@ function app_spiderchart($scope, app) {
     
     $scope.onSwipe = function(algo){
         console.log("test");
-        algo.rotate(30);
+        var r = 30;
+         algo.css({
+                    '-moz-transform': r,
+                    '-webkit-transform': r,
+                    '-o-transform': r,
+                    '-ms-transform': r
+                });
     }
 }
