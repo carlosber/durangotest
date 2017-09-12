@@ -4,6 +4,7 @@ function app_spiderchart($scope, app) {
     app.init($scope);
     
     $scope.onSwipe = function(algo){
+        console.log("test");
         algo.rotate(30);
     }
 }
