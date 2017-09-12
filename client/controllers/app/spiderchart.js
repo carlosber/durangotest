@@ -3,7 +3,7 @@ function app_spiderchart($scope, app) {
     'use strict';
     app.init($scope);
     
-    function onSwipe(algo){
+    $scope.onSwipe = function(algo){
         alert("test "+ algo);
     }
 }
