@@ -19,7 +19,9 @@
   "chartlabels": [
     "Ford",
     "BMW",
-    "Fiat"
+    "Fiat",
+    "Chevy",
+    "Honda"
   ],
   "charttype": "radar"
 }
