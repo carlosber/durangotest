@@ -4,5 +4,10 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "1cf7d753",
   "uiCommonVersion": "5.1.2",
-  "creatorId": "gdlfravi"
+  "creatorId": "gdlfravi",
+  "id": "durangotest",
+  "previewImageURL": "/previews/1cf7d753-durangotest/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/carlosber/durangotest",
+  "creatorName": "Francisco Aviles"
 }

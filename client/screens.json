@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "durangotest",
-  "startScreen": "app.blank",
+  "startScreen": "app.spiderchart",
   "screens": [
     {
       "id": "blank",
