@@ -26,13 +26,6 @@
       "name": "test",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank"
-    },
-    {
-      "id": "spiderchart",
-      "name": "SpiderChart",
-      "sourceScreenId": "app.spiderchart",
-      "sourceAppId": "Chart",
-      "model": "spiderchart"
     }
   ],
   "sourceAppId": "_blank",

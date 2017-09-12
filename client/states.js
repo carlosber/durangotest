@@ -42,14 +42,5 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.spiderchart', {
-        views: {
-            app: {
-                controller: 'app_spiderchart',
-                templateProvider: function (app) {
-                    return app.templateProvider('app.spiderchart');
-                }
-            }
-        }
     });
 });
