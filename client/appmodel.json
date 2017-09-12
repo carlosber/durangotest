@@ -1,1 +1,29 @@
-{}
+{
+  "spiderchart": {
+    "type": "object",
+    "comment": "spiderchart",
+    "properties": {
+      "chartdata": {
+        "type": "string",
+        "update": {
+          "type": "change",
+          "dynamic": false
+        }
+      },
+      "charttype": {
+        "type": "string",
+        "update": {
+          "type": "change",
+          "dynamic": false
+        }
+      },
+      "chartlabels": {
+        "type": "string",
+        "update": {
+          "type": "change",
+          "dynamic": false
+        }
+      }
+    }
+  }
+}
