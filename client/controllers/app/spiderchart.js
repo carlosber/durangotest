@@ -5,8 +5,8 @@ function app_spiderchart($scope, app) {
     
     $scope.onSwipe = function(algo){
         console.log("test");
-        var r = 30;
-         $algo.css({
+        var r = "30deg";
+         $(algo).css({
                     '-moz-transform': r,
                     '-webkit-transform': r,
                     '-o-transform': r,
